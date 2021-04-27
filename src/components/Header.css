@@ -28,6 +28,8 @@
 }
 
 .header_right {
+  position: relative;
+  left: -25px;
   display: flex;
   justify-content: flex-end;
   text-transform: uppercase;

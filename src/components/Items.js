@@ -25,7 +25,7 @@ function Items({ title, desc, backgroundImg, leftBtnText, leftBtnLink, rightBtnT
 
                     </div>
                     {first &&
-                        (<div className="item_expand">
+                        (<div className="items_expand">
                             <ExpandMoreIcon />
                         </div>)
                     }
